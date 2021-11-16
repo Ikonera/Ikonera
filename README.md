@@ -9,4 +9,4 @@
 
 :office: Working at [42C](https://www.42consulting.fr)
 
-:musical_note: I'm hearing so much metal music :metal:
+:musical_note: Listen much metal music :metal:
