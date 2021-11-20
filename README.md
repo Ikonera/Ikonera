@@ -3,7 +3,7 @@
 ### Who am I ?
 :bust_in_silhouette: From my real name, Gabriel MILLET.
 
-:computer: I'm a self-thought Full-Stack web developer for 7 years ago (JS/TS stack specialization, but other if needed :wink:)
+:computer: I'm a self-thought Full-Stack web developer since 7 years (JS/TS stack specialization, but other if needed :wink:)
 
 :mortar_board: Actually student at [ESTIAM](https://www.estiam.education/), Bac+4
 
