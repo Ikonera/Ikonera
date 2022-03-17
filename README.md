@@ -32,4 +32,4 @@
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="25pt"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="25pt"/>
 
-[![Ikonera's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikonera&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Ikonera's GitHub stats](https://github-readme-stats.vercel.app/api?show_icons=true&username=ikonera&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
