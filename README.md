@@ -20,6 +20,7 @@
 ### Languages / tools
 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" width="25pt"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25pt"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="25pt"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" width="25pt"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg" width="25pt"/>
@@ -32,4 +33,8 @@
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="25pt"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="25pt"/>
 
-[![Ikonera's GitHub stats](https://github-readme-stats.vercel.app/api?show_icons=true&username=ikonera&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+
+---
+[![Ikonera's GitHub stats](https://github-readme-stats.vercel.app/api?show_icons=true&username=ikonera&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Ikonera's GitHub stats](https://github-readme-stats.vercel.app/api?show_icons=true&username=ikonera&theme=vue)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
