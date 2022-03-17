@@ -38,3 +38,6 @@
 ---
 [![Ikonera's GitHub stats](https://github-readme-stats.vercel.app/api?show_icons=true&username=ikonera&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Ikonera's GitHub stats](https://github-readme-stats.vercel.app/api?show_icons=true&username=ikonera&theme=vue)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikonera&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikonera&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
