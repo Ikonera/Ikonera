@@ -1,21 +1,37 @@
+<!-- **Ikonera/Ikonera** is a special repository: its README.md will appear on your profile! -->
+
 # Ikonera
 
 ### Who am I ?
 * :bust_in_silhouette: From my real name, Gabriel MILLET.
-* :computer: I'm a self-taught Full-Stack web developer since 7 years !
-* :mortar_board: Actually student at [ESTIAM](https://www.estiam.education/), Bac+4
-* :office: Working at [42c](https://www.42consulting.fr)
+* :computer: I'm a self-taught Full-Stack web developer since 7 years,
+* :mortar_board: Actually student at [ESTIAM](https://www.estiam.education/), Bac+4,
+* :office: Working at [42c](https://www.42consulting.fr),
 * :musical_note: Listen much metal music :metal:
+
 
 ### Currently working on...
 
-> :rocket::computer: Simplifying development workflow
+> :rocket::computer: Simplifying development workflow ([My dotfiles](https://github.com/Ikonera/dotfiles))
 
-### Contact
+> :mortar_board: School project ([APlaceToGo](https://github.com/Ikonera/aplacetogo))
+
+> :office::octocat: GitHub enterprise account management (private)
+
+### How to reach me
+
+<a href="https://www.linkedin.com/in/gabriel-millet/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40pt"/>
+</a>
+&nbsp;
+<a href="mailto:gabrielmlt@protonmail.ch" target="_blank">
+  <img src="https://www.svgrepo.com/show/349484/protonmail.svg" width="40pt"/>
+</a>
+&nbsp;
 
 ---
 
-### Languages / tools
+### Languages & tools
 
 <br />
 
