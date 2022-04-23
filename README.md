@@ -12,7 +12,9 @@
 
 ### Currently working on...
 
-> :rocket::computer: Simplifying development workflow ([My dotfiles](https://github.com/Ikonera/dotfiles))
+> :rocket: Learning automation with ansible
+
+> :computer: Simplifying development workflow ([My dotfiles](https://github.com/Ikonera/dotfiles))
 
 > :mortar_board: School project ([APlaceToGo](https://github.com/Ikonera/aplacetogo))
 
