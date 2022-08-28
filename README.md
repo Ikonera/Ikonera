@@ -3,10 +3,9 @@
 # Ikonera
 
 ### Who am I ?
-* :bust_in_silhouette: From my real name, Gabriel MILLET.
 * :computer: I'm a self-taught Full-Stack web developer since 7 years,
 * :mortar_board: Currently student at [ESTIAM](https://www.estiam.education/), Bac+4,
-* :office: Working at [42c](https://www.42consulting.fr),
+* :office: Working at [42c](https://www.42c.fr),
 * :musical_note: Listen much metal music :metal:
 
 
