@@ -4,20 +4,18 @@
 
 ### Who am I ?
 * :computer: I'm a self-taught Full-Stack web developer since 7 years,
-* :mortar_board: Currently student at [ESTIAM](https://www.estiam.education/), Bac+4,
+* :mortar_board: Currently student at [ESTIAM](https://www.estiam.education/), Bac+5,
 * :office: Working at [42c](https://www.42c.fr),
 * :musical_note: Listen much metal music :metal:
 
 
 ### Currently working on...
 
-> :rocket: Learning automation with ansible
+> :rocket: Learning container orchestration with Kubernetes
 
 > :computer: Simplifying development workflow ([My dotfiles](https://github.com/Ikonera/dotfiles))
 
-> :mortar_board: School project ([APlaceToGo](https://github.com/Ikonera/aplacetogo))
-
-> :office::octocat: GitHub enterprise account management (private)
+> :office: Video streaming services with AWS
 
 ### How to reach me
 
