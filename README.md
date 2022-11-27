@@ -3,7 +3,7 @@
 # Ikonera
 
 ### Who am I ?
-* :computer: I'm a self-taught Full-Stack web developer since 7 years,
+* :computer: I'm a self-taught Full-Stack web developer since 8 years,
 * :mortar_board: Currently student at [ESTIAM](https://www.estiam.education/), Bac+5,
 * :office: Working at [42c](https://www.42c.fr),
 * :musical_note: Listen much metal music :metal:
