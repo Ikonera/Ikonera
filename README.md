@@ -15,7 +15,7 @@
 
 > :computer: Simplifying development workflow ([My dotfiles](https://github.com/Ikonera/dotfiles))
 
-> :office: Video streaming services with AWS
+> :office: Video streaming services with AWS - [Popup Channel By...](https://popup-channel-by.42cloud.io/)
 
 ### How to reach me
 
