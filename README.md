@@ -52,7 +52,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="25pt"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" width="25pt"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="25pt"/>
-  <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" width="25pt"/>
+  <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="25pt"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="25pt"/>
 </div>
 
