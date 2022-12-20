@@ -68,6 +68,7 @@
 
 <div>
   [![Ikonera's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ikonera&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
   [![Ikonera's GitHub stats](https://github-readme-stats.vercel.app/api?show_icons=true&username=ikonera&theme=tokyonight)](https://github.com/Ikonera#gh-dark-mode-only)
 
   [![Ikonera's GitHub stats](https://github-readme-stats.vercel.app/api?show_icons=true&username=ikonera&theme=vue)](https://github.com/Ikonera#gh-light-mode-only)
