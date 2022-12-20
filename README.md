@@ -51,15 +51,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25pt"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="25pt"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" width="25pt"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg" width="25pt"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="25pt"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25pt"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Nodejs.svg" width="25pt"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Logo_NestJS.svg" width="25pt"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Reactjs.svg" width="25pt"/>
-  <img src="https://github.com/katopz/stack-logo/blob/master/MongoDB-Leaf.svg" width="15pt"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="25pt"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="25pt"/>
 </div>
 
 <br />
