@@ -54,6 +54,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="25pt"/>
   <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="25pt"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="25pt"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="25pt"/>
 </div>
 
 <br />
