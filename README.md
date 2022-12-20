@@ -55,6 +55,8 @@
   <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="25pt"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="25pt"/>
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="25pt"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="25pt"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="25pt"/>
 </div>
 
 <br />
