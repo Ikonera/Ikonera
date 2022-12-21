@@ -11,7 +11,7 @@
 
 ### Currently working on...
 
-> :rocket: Learning container orchestration with Kubernetes
+> :rocket: Learning container orchestration with Kubernetes - CKAD
 
 > :computer: Simplifying development workflow ([My dotfiles](https://github.com/Ikonera/dotfiles))
 
