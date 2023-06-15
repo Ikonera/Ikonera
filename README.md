@@ -28,18 +28,6 @@
 
 ---
 
-### Potential recruiters
-
-<div align="center">
-
-  I'm currently **unavailable** for hiring.
-
-</div>
-
-<br />
-
----
-
 ### Languages & tools
 
 <br />
