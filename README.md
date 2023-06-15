@@ -13,9 +13,7 @@
 
 > :rocket: Learning container orchestration with Kubernetes - CKAD
 
-> :computer: Simplifying development workflow ([My dotfiles](https://github.com/Ikonera/dotfiles))
-
-> :office: Video streaming services with AWS - [Popup Channel By...](https://popup-channel-by.42cloud.io/)
+> :office: Working as DevOps on [Worldcrunch - Pix.T](https://worldcrunch.com/corporate-news/the-platform-for-the-future-of-professional-photography) project.
 
 ### How to reach me
 
