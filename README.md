@@ -4,16 +4,13 @@
 
 ### Who am I ?
 * :computer: I'm a self-taught Full-Stack web developer since 8 years,
-* :mortar_board: Currently student at [ESTIAM](https://www.estiam.education/), Bac+5,
-* :office: Working at [42c](https://www.42c.fr),
+* :office: Working at [LockSelf](https://www.lockself.com),
 * :musical_note: Listen much metal music :metal:
 
 
 ### Currently working on...
 
 > :rocket: Learning container orchestration with Kubernetes - CKAD
-
-> :office: Working as DevOps on [Worldcrunch - Pix.T](https://worldcrunch.com/corporate-news/the-platform-for-the-future-of-professional-photography) project.
 
 ### How to reach me
 
@@ -51,7 +48,7 @@
 
 <div>
 
-  [![Ikonera's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ikonera&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ikonera's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ikonera&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   [![Ikonera's GitHub stats](https://github-readme-stats.vercel.app/api?show_icons=true&username=ikonera&theme=tokyonight)](https://github.com/Ikonera#gh-dark-mode-only)
 
