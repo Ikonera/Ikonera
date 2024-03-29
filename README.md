@@ -8,7 +8,7 @@
 
 ### Currently working on...
 
-> :rocket: Learning about DevOps
+> :rocket: learning Golang
 
 ### How to reach me
 
