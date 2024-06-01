@@ -1,6 +1,6 @@
-# Ikonera
-
 <img src="./LinkedIn-banner.svg" alt="Ikonera banner" />
+
+# Ikonera
 
 ### Who am I ?
 
