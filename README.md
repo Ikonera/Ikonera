@@ -1,5 +1,7 @@
 # Ikonera
 
+<img src="./LinkedIn-banner.svg" alt="Ikonera banner" />
+
 ### Who am I ?
 
 - :computer: I'm a self-taught Full-Stack web developer since 9 years,
