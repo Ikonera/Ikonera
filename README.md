@@ -2,10 +2,10 @@
 
 # Ikonera
 
-<h2><u>Who am I ?</u></h2>
+### Who am I ?
 
 - :computer: I'm a self-taught Full-Stack web developer since 9 years,
-- :office: Currently searching for a job,
+- :office: Currently searching for a job near/at Paris,
 - :musical_note: Listen much metal music :metal:
 
 ### Currently working on...
