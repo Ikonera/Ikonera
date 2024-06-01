@@ -2,7 +2,7 @@
 
 # Ikonera
 
-### Who am I ?
+<h2><u>Who am I ?</u></h2>
 
 - :computer: I'm a self-taught Full-Stack web developer since 9 years,
 - :office: Currently searching for a job,
