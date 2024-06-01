@@ -5,7 +5,7 @@
 ### Who am I ?
 
 - :computer: I'm a self-taught Full-Stack web developer since 9 years,
-- :office: Currently searching for a job near/at Paris,
+- :office: Currently searching for a DevOps job near/at Paris - 3 years exp.,
 - :musical_note: Listen much metal music :metal:
 
 ### Currently working on...
