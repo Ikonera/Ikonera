@@ -33,6 +33,7 @@
 - Golang
 - AWS
 - Kubernetes / Docker
+- FluentD / ELK
 - Node.js / Nest.js
 - React.js
 - Ansible / Terraform
