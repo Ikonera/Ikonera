@@ -3,7 +3,7 @@
 ## Who am I ?
 
 - :man: I'm a self-taught Dev/Sys/Ops since 10 years,
-- :office: Searching for a DevOps job near/at Paris - 3 years exp.,
+- :office: **Searching for a DevOps job in the whole France - 3 years exp.**,
 - :computer: Love spending time learning about new technologies !
 - :musical_note: Listen to a lot of metal music :metal:
 
