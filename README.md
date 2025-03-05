@@ -2,9 +2,10 @@
 
 ## Who am I ?
 
-- :computer: I'm a self-taught Full-Stack web developer since 10 years,
-- :office: Currently searching for a DevOps job near/at Paris - 3 years exp.,
-- :musical_note: Listen much metal music :metal:
+- :man: I'm a self-taught Dev/Sys/Ops since 10 years,
+- :office: Searching for a DevOps job near/at Paris - 3 years exp.,
+- :computer: Love spending time learning about new technologies !
+- :musical_note: Listen to a lot of metal music :metal:
 
 ## Working on
 
@@ -32,3 +33,8 @@
   - Terraform
   - Ansible
   - AWS-CDK
+- CI/CD:
+  - Gitlab CI
+  - Github Actions
+  - Circle CI
+  - Bitbucket Pipelines
